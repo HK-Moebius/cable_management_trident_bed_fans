@@ -15,7 +15,14 @@
 
 ### Images
 
-[](./images/cable_holder.jpeg)
-
-
+![](./images/cable_holder.jpeg)
+![](./images/final.jpeg)
+![](./images/pcb_length.jpeg)
+![](./images/pcb_wide.jpeg)
+![](./images/solder1.jpeg)
+![](./images/solder2.jpeg)
+![](./images/print_orientation.png)
+![](./images/pcb_case_mount.jpeg)
+![](./images/pcb_case.jpeg)
+![](./images/pcb_top.jpeg)
 
