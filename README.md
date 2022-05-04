@@ -21,8 +21,9 @@
 ![](./images/pcb_wide.jpeg)
 ![](./images/solder1.jpeg)
 ![](./images/solder2.jpeg)
+![](./images/pcb_top.jpeg)
 ![](./images/print_orientation.png)
 ![](./images/pcb_case_mount.jpeg)
 ![](./images/pcb_case.jpeg)
-![](./images/pcb_top.jpeg)
+
 
