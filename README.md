@@ -7,7 +7,7 @@
 ## BOM
 
  - 1x M3x8 SHCS
- - 1x M3 t-Nut
+ - 1x M3 T-Nut
  - 1x Universal PCB 20mm wide 2.54mm pitch
  - 4x JST XH-2 vertical
  - 1x JST XH-2 rectangular
