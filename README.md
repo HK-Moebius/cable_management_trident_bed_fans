@@ -15,7 +15,7 @@
 
 ### Images
 
-[](images/cable_holder.jpeg)
+[](./images/cable_holder.jpeg)
 
 
 
