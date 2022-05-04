@@ -11,5 +11,11 @@
  - 1x Universal PCB 20mm wide 2.54mm pitch
  - 4x JST XH-2 vertical
  - 1x JST XH-2 rectangular
+ - Wire 0.14mm<sup>2</sup> or e.g. twisted pair wire only for ground wiring.
+
+### Images
+
+[](images/cable_holder.jpeg)
+
 
 
