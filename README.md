@@ -25,5 +25,5 @@
 ![](./images/print_orientation.png)
 ![](./images/pcb_case_mount.jpeg)
 ![](./images/pcb_case.jpeg)
-
+![](./images/kicad3d.png)
 
